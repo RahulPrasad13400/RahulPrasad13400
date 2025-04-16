@@ -1,6 +1,6 @@
 - 👋 Hi, I’m RahulPrasad
 - 👀 Currently I’m interested in Web development 
-- 🌱 I’m currently learning REACT
+- 🌱 I’m currently learning MERN
 - 💞️ I’m looking to collaborate on projects 
 - 📫 How to reach me rahulprasad1399@gmail.com
 - 😄 Pronouns: ...
